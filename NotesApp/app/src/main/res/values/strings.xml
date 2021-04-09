@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NotesApp</string>
+    <string name="notes">My Notes</string>
+    <string name="search">Search your notes</string>
+    <string name="note_title">Notes Title</string>
+    <string name="note_sub_title">Notes Sub Title</string>
+    <string name="note_description">Enter note here</string>
+    <string name="storage_Permission_text">This app needs access to your storage.</string>
+</resources>
